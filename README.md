@@ -1,4 +1,4 @@
-<h2 align="left">Hello guys, i'm a student from Vietnam<br>Call me Dustin</h2>
+<h2 align="left">“JFDI” (Just fucking do it)</h2>
 ---
-Visit my portfolio website: itsmee.space([https://itsmee.space/])
+Visit my portfolio website: [itsmee.space]([https://github.com/DucPhamNgoc08/nextjs-portfolio/blob/main/LICENSE](https://itsmee.space/))
 
